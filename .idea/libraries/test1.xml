@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="test1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="jar://D:/dependency_package/DBCP/commons-dbcp2-2.7.0/commons-dbcp2-2.7.0.jar!/" />
+      <root url="jar://D:/dependency_package/mysql/mysql-connector-java-5.1.45-bin.jar!/" />
+      <root url="jar://D:/dependency_package/COLLECTIONS/commons-collections4-4.4/commons-collections4-4.4.jar!/" />
+      <root url="jar://D:/dependency_package/Logging/commons-logging-1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://D:/dependency_package/POOL/commons-pool2-2.8.0/commons-pool2-2.8.0.jar!/" />
+      <root url="jar://D:/dependency_package/c3p0/c3p0-0.9.5.5/lib/c3p0-0.9.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
